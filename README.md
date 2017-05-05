@@ -1,1 +1,1 @@
-# PriceAlertBot
+# StockCheck
